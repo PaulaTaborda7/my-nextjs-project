@@ -7,7 +7,7 @@ import PageLayout from '../components/PageLayout'
 import { useState } from 'react'
 
 
-export default function Home( {articles} ) { // The prop 'articles' give the news
+export default function Home( {articles} ) { // The prop 'articles' gives the news
 
   return (
     <PageLayout title='Your News - Home'>

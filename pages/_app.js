@@ -1,3 +1,5 @@
+// One of the most important part in the project
+
 import '../styles/globals.css'
 import Head from 'next/head'
 

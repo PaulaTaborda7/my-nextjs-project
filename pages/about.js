@@ -1,3 +1,5 @@
+// Page with general information
+
 import PageLayout from "../components/PageLayout.jsx";
 
 export default function About() {
